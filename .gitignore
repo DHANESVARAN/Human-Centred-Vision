@@ -1,0 +1,6 @@
+cnn_env/
+raw_dataset/
+processed_dataset/
+*.zip
+__pycache__/
+
